@@ -1,2 +1,2 @@
 exports.feature = "TODO";
-exports.App = "TODO"
+exports.App = "TODO";

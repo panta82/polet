@@ -22,5 +22,8 @@
   "bugs": {
     "url": "https://github.com/panta82/polet/issues"
   },
-  "homepage": "https://github.com/panta82/polet"
+  "homepage": "https://github.com/panta82/polet",
+  "dependencies": {
+    "lodash": "^3.10.1"
+  }
 }
