@@ -1,0 +1,26 @@
+{
+  "name": "polet",
+  "version": "0.0.1",
+  "description": "Application init system",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/panta82/polet.git"
+  },
+  "keywords": [
+    "initialize",
+    "dependency",
+    "injection",
+    "structure",
+    "application"
+  ],
+  "author": "Panta82",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/panta82/polet/issues"
+  },
+  "homepage": "https://github.com/panta82/polet"
+}
